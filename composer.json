@@ -1,0 +1,13 @@
+{
+    "name": "d946/consolebrackets",
+    "description": "Console test tool",
+    "type": "project",
+    "require": {
+        "f1r3starter/brackets": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "src"
+        }
+    }
+}
